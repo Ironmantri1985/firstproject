@@ -11,6 +11,7 @@ html {
 }
 h1{
   color: #e2dbdb;
+  animate__backInDown;
 }
 hr {
   border-color: rgb(226, 56, 21);
